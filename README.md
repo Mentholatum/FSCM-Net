@@ -46,7 +46,7 @@ Pre-processing is performed according to [Ouyang et al.](https://github.com/chen
 Run `./script/test_<direction>.sh` 
 
 ## 🥰 Acknowledgements
-Our code is built upon the works of [FAMNet](https://github.com/primebo1/FAMNet), we appreciate the authors for their excellent contributions!
+Our code is built upon the work of [FAMNet](https://github.com/primebo1/FAMNet), we appreciate the authors for their excellent contributions!
 
 ## 📝 Citation
 If you use this code for your research or project, please consider citing our paper. Thanks!🥂:
