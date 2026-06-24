@@ -1,5 +1,5 @@
 # FSCM-Net
-The official Pytorch implementation about ''Frequency-Spatial Collaborative Matching for Cross-Domain One-Shot Medical Image Segmentation''
+The official pytorch implementation about ''Frequency-Spatial Collaborative Matching for Cross-Domain One-Shot Medical Image Segmentation''
 
 ## 💡 Overview of FSCM-Net 
 ![](./FSCMNet.png)
