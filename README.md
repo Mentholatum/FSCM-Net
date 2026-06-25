@@ -39,11 +39,11 @@ Pre-processing is performed according to [Ouyang et al.](https://github.com/chen
 ### 🔥 Training
 1. Compile `./data/supervoxels/felzenszwalb_3d_cy.pyx` with cython (`python ./data/supervoxels/setup.py build_ext --inplace`) and run `./data/supervoxels/generate_supervoxels.py`
 2. Download the pre-trained [ResNet-50 weights](https://download.pytorch.org/models/deeplabv3_resnet50_coco-cd0a2569.pth) and put in your checkpoints folder, then replace the absolute path in the code `./models/encoder.py`.  
-3. Run `./script/train_<direction>.sh`, for example: `./scripts/train_AbdCT.sh`
+3. Run `./scripts/train_<direction>.sh`, for example: `./scripts/train_AbdCT.sh`
 
 
 ### 🔍  Inference
-Run `./script/test_<direction>.sh` 
+Run `./scripts/test_<direction>.sh` 
 
 ## 🥰 Acknowledgements
 Our code is built upon the work of [FAMNet](https://github.com/primebo1/FAMNet), we appreciate the authors for their excellent contributions!
