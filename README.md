@@ -54,7 +54,7 @@ If you use this code for your research or project, please consider citing our pa
 @ARTICLE{,
   author={},
   journal={}, 
-  title={}, 
+  title={Frequency-Spatial Collaborative Matching for Cross-Domain One-Shot Medical Image Segmentation}, 
   year={},
   volume={},
   number={},
